@@ -1,0 +1,23 @@
+{
+  "name": "tailwindcourse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i src/styles.css -o public/output.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fede3mmanuel/tailwindcourse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fede3mmanuel/tailwindcourse/issues"
+  },
+  "homepage": "https://github.com/fede3mmanuel/tailwindcourse#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.16"
+  }
+}
