@@ -17,7 +17,10 @@
     "url": "https://github.com/fede3mmanuel/tailwindcourse/issues"
   },
   "homepage": "https://github.com/fede3mmanuel/tailwindcourse#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^10.3.6",
+    "postcss": "^8.3.8",
     "tailwindcss": "^2.2.16"
   }
 }
