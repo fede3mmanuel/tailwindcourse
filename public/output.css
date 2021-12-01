@@ -636,15 +636,6 @@ video {
   }
 }
 
-.btn-blue {
-  --tw-bg-opacity: 1;
-  background-color: rgba(59, 130, 246, var(--tw-bg-opacity));
-  padding-left: 1rem;
-  padding-right: 1rem;
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-}
-
 .sr-only {
   position: absolute;
   width: 1px;
@@ -32254,6 +32245,22 @@ video {
 
 .content-none {
   content: none;
+}
+
+.p-21 {
+  padding: 5.5rem;
+}
+
+.p-21 {
+  padding: 5.5rem;
+}
+
+.hover\:p-21:hover {
+  padding: 5.5rem;
+}
+
+.focus\:p-21:focus {
+  padding: 5.5rem;
 }
 
 @media (min-width: 640px) {
